@@ -5,7 +5,7 @@
     <div class="d1">Click outside</div>
 </div>
   ```
-####JS code
+#### JS code
 ```javascript
 $(function(){		
     $(document).click(function(e){
